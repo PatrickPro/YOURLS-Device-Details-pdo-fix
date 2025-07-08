@@ -42,5 +42,8 @@ If you would like to help me, feel free to open up a new issue as well! I would 
 
 I got a request to make this compatible with the [Download Plugin](https://github.com/krissss/yourls-download-plugin) plugin, so I will look more into it. Version 1 should be compatible, although it looks like I need to configure the branches of this repository a little bit differently.
 
+## Contributors
+Sachin Agrawal: I'm a self-taught programmer who knows many languages and I'm into app, game, and web development. For more information, check out my website or Github profile. If you would like to contact me, my email is [github@sachin.email](mailto:github@sachin.email).
+
 ## License
 This package is licensed under the [MIT License](LICENSE.txt).
